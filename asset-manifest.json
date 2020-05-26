@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newspaper/static/css/main.dce677b8.chunk.css",
+    "main.js": "/newspaper/static/js/main.5c8c6559.chunk.js",
+    "main.js.map": "/newspaper/static/js/main.5c8c6559.chunk.js.map",
+    "runtime~main.js": "/newspaper/static/js/runtime~main.f4c4b97b.js",
+    "runtime~main.js.map": "/newspaper/static/js/runtime~main.f4c4b97b.js.map",
+    "static/js/2.de1f9222.chunk.js": "/newspaper/static/js/2.de1f9222.chunk.js",
+    "static/js/2.de1f9222.chunk.js.map": "/newspaper/static/js/2.de1f9222.chunk.js.map",
+    "index.html": "/newspaper/index.html",
+    "precache-manifest.167f68ac509beeb45d06c512c39f5305.js": "/newspaper/precache-manifest.167f68ac509beeb45d06c512c39f5305.js",
+    "service-worker.js": "/newspaper/service-worker.js",
+    "static/css/main.dce677b8.chunk.css.map": "/newspaper/static/css/main.dce677b8.chunk.css.map",
+    "static/media/stock coffee.jpg": "/newspaper/static/media/stock coffee.67f1fede.jpg"
+  }
+}
